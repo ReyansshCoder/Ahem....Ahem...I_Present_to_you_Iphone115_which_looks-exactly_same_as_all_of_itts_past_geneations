@@ -1,0 +1,18 @@
+.btn-warning:hover{
+background-color:rgb(255, 0, 0) ;	
+font-size: 25px;
+}
+
+canvas{
+animation-name: any_name;
+animation-duration:2s;
+animation-iteration-count: infinite;
+}
+
+@keyframes any_name{
+from{box-shadow: 5px 5px 35px crimson;}
+to {box-shadow: 5px 5px 35px darkorchid;}}
+
+.RZ{
+font-size: 25px;
+}
